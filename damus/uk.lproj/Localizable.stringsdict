@@ -19,7 +19,7 @@
 			<key>many</key>
 			<string>... %d інших нотаток ...</string>
 			<key>other</key>
-			<string>... %d інша нотатка ...</string>
+			<string>... %d інші нотатки ...</string>
 		</dict>
 	</dict>
 	<key>followers_count</key>
