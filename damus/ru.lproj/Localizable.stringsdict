@@ -115,11 +115,11 @@
 			<key>one</key>
 			<string>Реакция</string>
 			<key>few</key>
-			<string>Reactions</string>
-			<key>many</key>
-			<string>Reactions</string>
-			<key>other</key>
 			<string>Реакции</string>
+			<key>many</key>
+			<string>Реакций</string>
+			<key>other</key>
+			<string>Реакция</string>
 		</dict>
 	</dict>
 	<key>relays_count</key>
