@@ -159,7 +159,7 @@
 			<key>many</key>
 			<string>В ответ %2$@, %3$@ и %1$d others</string>
 			<key>other</key>
-			<string>В ответ %2$@, %3$@ и %1$d другие</string>
+			<string>В ответ %2$@, %3$@ и %1$d другим</string>
 		</dict>
 	</dict>
 	<key>reposted_tagged_in_3</key>
